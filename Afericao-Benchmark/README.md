@@ -5,7 +5,7 @@
 
 Realizar diversas iterações do programa abaixo, levando em consideração o que segue:
 - Escolher o(s) elemento(s), do sistema computacional, a ser(em) avaliado(s); `por exemplo, diferentes
-sistemas operacionais, arquiteturas, compiladores)`
+sistemas operacionais, arquiteturas, compiladores`
 - Definir a carga de trabalho a ser imposta ao sistema (a operação que será realizada pelo programa; `por
 exemplo: ordenação de vetor`
 - Executar iterativamente, n vezes, o programa (a tarefa de processamento);
@@ -22,7 +22,7 @@ exemplo: ordenação de vetor`
 ### Problema Proposto:
 - (em breve)
 
-###Linguagens:
+### Linguagens:
    - Java
    - JS
    - C
@@ -38,11 +38,11 @@ exemplo: ordenação de vetor`
 	- uso de funções nativas; 
 	- acesso à documentação;
 
-###Resultados:
+### Resultados:
 - Gerar grafico com o Tempo de Execução Medio de cada Linguagem
 - Criar uma tabela com as principais informações: `{Linguagem, Tamanho do Codigo, Tamanho do Arquivo, Tempo de Produção, Tempo de Execução}`
 
-###Referências: 
+### Referências: 
 - [[1] Analise Quantitativa e Comparativa de Linguagens de Programação. ](https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwj21cTT88PkAhVAH7kGHWt6Bx0QFjAAegQIABAC&url=https%3A%2F%2Fwww.lume.ufrgs.br%2Fbitstream%2Fhandle%2F10183%2F31036%2F000782127.pdf&usg=AOvVaw0d_j7MiJSBOiEizBmClE61)
 - [[2] Análise Comparativa de Linguagens de Programação a partir
 de Problemas Clássicos da Computação. ](https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=18&ved=2ahUKEwj21cTT88PkAhVAH7kGHWt6Bx0QFjARegQIBBAC&url=https%3A%2F%2Frevistas.unifacs.br%2Findex.php%2Frsc%2Farticle%2Fdownload%2F5133%2F3488&usg=AOvVaw3D0p8feFX32R7nHetiIMFQ)
