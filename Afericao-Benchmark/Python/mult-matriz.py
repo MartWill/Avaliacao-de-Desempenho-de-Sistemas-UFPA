@@ -29,7 +29,7 @@ if __name__ == '__main__':
       a[i][j] = int(a[i][j])
 
   '''Leitura da tabela 2'''
-  with open('500_02.csv') as csv_file:
+  with open('500_01.csv') as csv_file:
     csv_reader = csv.reader(csv_file)
     b = [row for row in csv_reader]
 
