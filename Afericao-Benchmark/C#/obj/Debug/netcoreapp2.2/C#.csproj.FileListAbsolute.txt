@@ -1,0 +1,11 @@
+C:\Users\Leandro\Desktop\Avaliacao-de-Desempenho-de-Sistemas-UFPA-master\Afericao-Benchmark\C#\obj\Debug\netcoreapp2.2\C#.csprojAssemblyReference.cache
+C:\Users\Leandro\Desktop\Avaliacao-de-Desempenho-de-Sistemas-UFPA-master\Afericao-Benchmark\C#\obj\Debug\netcoreapp2.2\C#.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\Avaliacao-de-Desempenho-de-Sistemas-UFPA-master\Afericao-Benchmark\C#\obj\Debug\netcoreapp2.2\C#.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\Avaliacao-de-Desempenho-de-Sistemas-UFPA-master\Afericao-Benchmark\C#\obj\Debug\netcoreapp2.2\C#.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\Avaliacao-de-Desempenho-de-Sistemas-UFPA-master\Afericao-Benchmark\C#\bin\Debug\netcoreapp2.2\C#.deps.json
+C:\Users\Leandro\Desktop\Avaliacao-de-Desempenho-de-Sistemas-UFPA-master\Afericao-Benchmark\C#\bin\Debug\netcoreapp2.2\C#.runtimeconfig.json
+C:\Users\Leandro\Desktop\Avaliacao-de-Desempenho-de-Sistemas-UFPA-master\Afericao-Benchmark\C#\bin\Debug\netcoreapp2.2\C#.runtimeconfig.dev.json
+C:\Users\Leandro\Desktop\Avaliacao-de-Desempenho-de-Sistemas-UFPA-master\Afericao-Benchmark\C#\bin\Debug\netcoreapp2.2\C#.dll
+C:\Users\Leandro\Desktop\Avaliacao-de-Desempenho-de-Sistemas-UFPA-master\Afericao-Benchmark\C#\bin\Debug\netcoreapp2.2\C#.pdb
+C:\Users\Leandro\Desktop\Avaliacao-de-Desempenho-de-Sistemas-UFPA-master\Afericao-Benchmark\C#\obj\Debug\netcoreapp2.2\C#.dll
+C:\Users\Leandro\Desktop\Avaliacao-de-Desempenho-de-Sistemas-UFPA-master\Afericao-Benchmark\C#\obj\Debug\netcoreapp2.2\C#.pdb
