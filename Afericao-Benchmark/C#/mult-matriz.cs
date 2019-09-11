@@ -64,7 +64,7 @@ namespace CSVReader
           }
       }
 
-      Stream saida = File.Open("tabela3.csv", FileMode.Create);
+      Stream saida = File.Open("tabela3.csv", FileMode.Append  );
       StreamWriter escritor = new StreamWriter(saida);
 
       

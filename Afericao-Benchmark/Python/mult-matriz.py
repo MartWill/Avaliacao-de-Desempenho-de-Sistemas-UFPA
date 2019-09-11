@@ -1,8 +1,10 @@
 
 import csv
+import time
 
 
 def mat_mul (A, B):
+
   num_linhas_A, num_colunas_A = len(A), len(A[0])
   num_linhas_B, num_colunas_B = len(B), len(B[0])
   assert num_colunas_A == num_linhas_B
@@ -19,6 +21,8 @@ def mat_mul (A, B):
 
 if __name__ == '__main__':
 
+  tempoDeInicio = time.time()
+
   '''Leitura da tabela 1'''
   with open('500_01.csv') as csv_file:
     csv_reader = csv.reader(csv_file)
@@ -29,7 +33,7 @@ if __name__ == '__main__':
       a[i][j] = int(a[i][j])
 
   '''Leitura da tabela 2'''
-  with open('500_01.csv') as csv_file:
+  with open('500_02.csv') as csv_file:
     csv_reader = csv.reader(csv_file)
     b = [row for row in csv_reader]
 
@@ -37,11 +41,22 @@ if __name__ == '__main__':
     for j in range(len(b[0])):
       b[i][j] = int(b[i][j])
 
-  '''Multiplicação'''
-  print(mat_mul(a,b))
-
   with open('resultados.csv', 'w', newline='') as csvfile:
     spamwriter = csv.writer(csvfile, delimiter=',',quotechar=',', quoting=csv.QUOTE_MINIMAL)
     spamwriter.writerows(mat_mul(a,b))
+
+
+  arquivo = open('time.txt', 'r')
+  conteudo = arquivo.readlines()
+
+  conteudo.append( str(time.time() - tempoDeInicio ) +  '\n')
+
+  arquivo = open('time.txt', 'w')
+  arquivo.writelines(conteudo)
+  arquivo.close()
+
+
+
+
 
 
