@@ -14,19 +14,13 @@ exemplo: ordenação de vetor`
 
 # Comparação entre Linguagens
 
-`Criar uma VM para com alguma versão Linux leve.`
-
-`Criar mais de um problema para ser comparado`
-
-
 ### Problema Proposto:
-- (em breve)
+- Leitura de 2 arquivos .csv `matrizes inteiros aleatorios 500x500`
+- Muitiplicação das 2 matrizes 
+- Escrita de 1 arquivo .csv `resultado da multiplicação`
 
 ### Linguagens:
-   - Java
-   - JS
-   - C
-   - C++
+   - C#
    - Python
 
 ### Metricas:
