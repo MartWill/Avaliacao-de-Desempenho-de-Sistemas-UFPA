@@ -3,7 +3,7 @@ using System.IO;
 using System.Text;
 using System.Diagnostics;
 
-namespace CSVReader
+namespace CSVR
 {
   class Program
   {
@@ -12,7 +12,7 @@ namespace CSVReader
       var tempoDeExecucao = new Stopwatch();
       tempoDeExecucao.Start();
       /** TABELA 1 **/
-      string[] matriz01 = File.ReadAllLines("500_01.csv", Encoding.Default);
+      string[] matriz01 = File.ReadAllLines("500x_1.csv", Encoding.Default);
       int[][] tabela1 = new int[matriz01.Length][];
       int auxY = 0;
       foreach (string linha01 in matriz01)
@@ -29,7 +29,7 @@ namespace CSVReader
       }
 
       /** TABELA 2 **/
-      string[] matriz02 = File.ReadAllLines("500_02.csv", Encoding.Default);
+      string[] matriz02 = File.ReadAllLines("500x_2.csv", Encoding.Default);
       int[][] tabela2 = new int[matriz02.Length][];
       auxY = 0;
       foreach (string linha01 in matriz02)

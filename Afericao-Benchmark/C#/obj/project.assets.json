@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Leandro\\.nuget\\packages\\": {},
+    "C:\\Users\\MAIA\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leandro\\Desktop\\Avaliacao-de-Desempenho-de-Sistemas-UFPA-master\\Afericao-Benchmark\\C#\\C#.csproj",
+      "projectUniqueName": "C:\\Users\\MAIA\\Documents\\GitHub\\Avaliacao-de-Desempenho-de-Sistemas-UFPA\\Afericao-Benchmark\\C#\\C#.csproj",
       "projectName": "C#",
-      "projectPath": "C:\\Users\\Leandro\\Desktop\\Avaliacao-de-Desempenho-de-Sistemas-UFPA-master\\Afericao-Benchmark\\C#\\C#.csproj",
-      "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leandro\\Desktop\\Avaliacao-de-Desempenho-de-Sistemas-UFPA-master\\Afericao-Benchmark\\C#\\obj\\",
+      "projectPath": "C:\\Users\\MAIA\\Documents\\GitHub\\Avaliacao-de-Desempenho-de-Sistemas-UFPA\\Afericao-Benchmark\\C#\\C#.csproj",
+      "packagesPath": "C:\\Users\\MAIA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MAIA\\Documents\\GitHub\\Avaliacao-de-Desempenho-de-Sistemas-UFPA\\Afericao-Benchmark\\C#\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Leandro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\MAIA\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"

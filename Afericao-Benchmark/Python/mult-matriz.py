@@ -24,7 +24,7 @@ if __name__ == '__main__':
   tempoDeInicio = time.time()
 
   '''Leitura da tabela 1'''
-  with open('500_01.csv') as csv_file:
+  with open('500x_1.csv') as csv_file:
     csv_reader = csv.reader(csv_file)
     a = [row for row in csv_reader]
 
@@ -33,7 +33,7 @@ if __name__ == '__main__':
       a[i][j] = int(a[i][j])
 
   '''Leitura da tabela 2'''
-  with open('500_02.csv') as csv_file:
+  with open('500x_2.csv') as csv_file:
     csv_reader = csv.reader(csv_file)
     b = [row for row in csv_reader]
 
